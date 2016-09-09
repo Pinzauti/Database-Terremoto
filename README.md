@@ -1,18 +1,18 @@
-# Database Terremoto
-Generatore di CSV da issue GitHub.
+# Github issue to CSV
+Generate CSV from Github Issues. Demo: https://terremoto.francescopinzauti.com/csv/
 
-Prima di procedere con l'utilizzo:
+Before starting:
 --------------------------------
-- Sostituire i tag [USERNAME] e [PASSWORD] con le proprie usernme e password GitHub.
-- Modificare il link alla repository.
-- Personalizzare i campi
+- Replace [USERNAME] and [PASSWORD] with your Github's username and password.
+- Change target repository.
+- Customize CSV fields.
 
-ATTENZIONE:
+WARNING:
 --------------------------------
-Il formato dell'issue deve essere del tipo: 
+Issue's format must be: 
 
-`campo: contenuto`
+`field: content`
 
-`campo: contenuto`
+`field: content`
 
-Non devono essere presenti doppi punti oltre a quelli dei link.
+No ":" must be in the issue except for the links.
