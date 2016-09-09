@@ -1,4 +1,4 @@
-# Github issue to CSV
+# GitHub issue to CSV
 Generate CSV from Github Issues. Demo: https://terremoto.francescopinzauti.com/csv/
 
 Before starting:
